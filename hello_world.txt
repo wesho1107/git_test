@@ -1,0 +1,1 @@
+Adding texts to hello_world.txt, staging it and committing it.
